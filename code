@@ -1,0 +1,6 @@
+pkg installation git 
+pkg install python
+git clone
+https://github.com/Hackermanking/Hackermanking.git
+cd hackermanking
+hackermanking.py
